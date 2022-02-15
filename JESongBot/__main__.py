@@ -1,4 +1,4 @@
-#Uvindu Bro <https://t.me/UvinduBro>
+#Garfield boy <https://t.me/garfieldboy>
 
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from JESongBot.plugins import *
@@ -12,8 +12,8 @@ Hey [{}](tg://user?id={}), I'm Song Downloader Bot 🎵
 
 😉 Just send me the song name you want to download.😋
       eg:```/song Faded```
-      
-A bot by @Uvindu_Bro 🇱🇰
+ Join My group - https://t.me/+960_bdT0bIlhMDE1
+A bot by @garfieldboy 🇱🇰
 """
 
 @app.on_message(filters.command("start"))
@@ -26,10 +26,13 @@ async def start(client, message):
             [
                 [
                      InlineKeyboardButton(
-                        text="Channel 🔊", url="https://t.me/UvinduBr"
+                        text="Channel 🔊", url="https://t.me/botcompany1"
                     ),
                     InlineKeyboardButton(
-                        text="Dev 🔥", url="https://t.me/Uvindu_Bro"
+                        text="Owner 🔥", url="https://t.me/garfieldboy"
+                    ),
+                       InlineKeyboardButton(
+                        text="Group 🔥", url="https://t.me/+960_bdT0bIlhMDE1"
                     )
                 ]
             ]
