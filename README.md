@@ -18,16 +18,7 @@ The easiest way to deploy this Song Bot  <br><br>
 
 - [Pyrogram](https://github.com/pyrogram)
 - Mr Dark Prince
-
-### Credits:
-
-[scprojectslk](https://github.com/scprojectslk)
-
-[ImJanindu](https://github.com/ImJanindu)
-
-[Infinity BOTs](https://t.me/Infinity_BOTs)
-
-
+- 
 ### Developers:
 
-[@UvinduBro](https://t.me/garfieldboy)
+[@Wishwamax](https://t.me/garfieldboy)
