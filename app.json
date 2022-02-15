@@ -1,15 +1,15 @@
 {
-    "name": "SC Song Bot",
+    "name": "Song Paradise bot",
     "description": "A bot that can download songs.",
     "logo": "https://telegra.ph/file/290e565c53f0aac27f518.jpg",
     "keywords": [
-        "JESongBot",
+        "songparadise99bot",
         "Song Downloader",
         "Telegram Bot",
-        "JE Bots"
+        "Bots company"
     ],
     "website": "https://infinityje.com",
-    "repository": "https://github.com/scprojectslk/JESongBot",
+    "repository": "https://github.com/Wishwamaxx/UBSongBot",
     "success_url": "https://t.me/SCProjectsLK",
     "env": {
         "BOT_TOKEN": {
